@@ -1,0 +1,5 @@
+Admin Email: Admin@gmail.com	
+Admin Password: ADMIN
+
+User Email: User@gmail@gmail.com
+User Password: USER
